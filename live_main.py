@@ -1,12 +1,16 @@
+# import statements
 from bs4 import BeautifulSoup
 import requests
 
+# using the get() method to download url webpage
 html_text = requests.get('https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&txtKeywords=python&txtLocation=').text
 
+# applying the BeautifulSoup() method using the 'lxml' parser
 soup = BeautifulSoup(html_text, 'lxml')
 jobs = soup.find_all('li', class_ = 'clearfix job-bx wht-shd-bx')
 count = 0
 
+# looping through the job list
 for job in jobs:
     post_date = job.find('span', class_ = 'sim-posted').text.strip()
     if post_date == "Posted few days ago" or post_date == 'Posted today':
