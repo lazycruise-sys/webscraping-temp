@@ -1,0 +1,45 @@
+Number: 1
+Company Name: Pure Tech Codex Private Limited
+Required Skills: rest,python,database,django,debugging,mongodb
+More Information: https://www.timesjobs.com/job-detail/python-pure-tech-codex-private-limited-pune-2-to-3-yrs-jobid-OHwfF0d6EhNzpSvf__PLUS__uAgZw==&source=srp
+
+Number: 2
+Company Name: Gemini Solutions
+Required Skills: python,mobile,svn,nosql,pythonscripting,git,api,sqldatabase
+More Information: https://www.timesjobs.com/job-detail/qa-python-python-sdet-gemini-solutions-gurgaon-4-to-7-yrs-jobid-eGMLzwOk2QlzpSvf__PLUS__uAgZw==&source=srp
+
+Number: 3
+Company Name: Ivan Infotech Pvt. Ltd.
+Required Skills: rest,python,security,debugging
+More Information: https://www.timesjobs.com/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&source=srp
+
+Number: 4
+Company Name: SEVEN CONSULTANCY
+Required Skills: rest,python,storage
+More Information: https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-thane-1-to-3-yrs-jobid-WwgCPmR5DrFzpSvf__PLUS__uAgZw==&source=srp
+
+Number: 5
+Company Name: SEVEN CONSULTANCY
+Required Skills: python,mvc,sql
+More Information: https://www.timesjobs.com/job-detail/python-developer-seven-consultancy-navi-mumbai-mumbai-4-to-7-yrs-jobid-PGeUDPey4RhzpSvf__PLUS__uAgZw==&source=srp
+
+Number: 6
+Company Name: FresherMart
+Required Skills: python,django,DjangoFramework
+More Information: https://www.timesjobs.com/job-detail/python-developer-freshermart-navi-mumbai-mumbai-0-to-1-yrs-jobid-PUYMPEa4NaFzpSvf__PLUS__uAgZw==&source=srp
+
+Number: 7
+Company Name: TandA HR Solutions
+Required Skills: Djangoframework,PythonDeveloper,corepython
+More Information: https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-mohali-3-to-5-yrs-jobid-GTT0grHZP1tzpSvf__PLUS__uAgZw==&source=srp
+
+Number: 8
+Company Name: spm hr solutions
+Required Skills: python,sql,mysql,hadoop
+More Information: https://www.timesjobs.com/job-detail/python-developer-spm-hr-solutions-chennai-6-to-10-yrs-jobid-bPwareoNJnxzpSvf__PLUS__uAgZw==&source=srp
+
+Number: 9
+Company Name: east india securities ltd.
+Required Skills: python,hadoop,machinelearning
+More Information: https://www.timesjobs.com/job-detail/python-engineer-east-india-securities-ltd-kolkata-2-to-5-yrs-jobid-KEkE19WqPbFzpSvf__PLUS__uAgZw==&source=srp
+
