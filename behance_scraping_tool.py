@@ -8,6 +8,7 @@ html_text = requests.get('https://www.behance.net/gallery/94876543/Open-Sauce-Sa
 # create a BeautifulSoup object using the lxml parser
 soup = BeautifulSoup(html_text, 'lxml')
 
+# ID and Class
 # ImageElement-image-2K6
 # ImageElement-image-2K6 ImageElement-blockPointerEvents-ooR
 
