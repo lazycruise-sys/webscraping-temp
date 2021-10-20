@@ -1,12 +1,15 @@
+# import statements
 from bs4 import BeautifulSoup
 import requests
 import time
 from datetime import datetime
 
+# requests for users information
 print('Put some skill that you are not familiar with')
 unfamiliar_skill = input('>> ')
 print(f'Filtering out {unfamiliar_skill}')
 
+# create function
 def request_python_jobs():
     now = datetime.now()
     current_time = now.strftime("%H_%M_%S")
@@ -32,7 +35,8 @@ def request_python_jobs():
                     f.write(f"Required Skills: {skills}\n")
                     f.write(f"More Information: {more_info}\n\n")
     print(f'File saved: {current_time}_current_jobs_without_{unfamiliar_skill}.txt')
-                
+ 
+# specify that functions only runs if this is file is run alone               
 if __name__ == '__main__':
     while True:
         request_python_jobs()
